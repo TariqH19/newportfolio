@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Tariq Horan</title>
+  <desc id="desc">TH monogram on a warm ivory square.</desc>
+  <rect width="64" height="64" fill="#F1EEE6"/>
+  <rect x="3.5" y="3.5" width="57" height="57" fill="none" stroke="#C9C3B8" stroke-width="0.8"/>
+  <g fill="#252820">
+  <path d="M642 689H40L38 486H67C73 545 89 588 114 613C139 638 185 653 250 656L295 658V31H202V0H480V31H386V658L432 656C497 653 543 638 569 611C595 584 610 543 614 486H644Z" transform="translate(2.4 48.5) scale(0.042 -0.042)"/>
+  <path d="M718 31H625V658H718V689H440V658H534V380H227V658H320V689H44V658H138V31H44V0H320V31H227V345H534V31H440V0H718Z" transform="translate(28.0 48.5) scale(0.042 -0.042)"/>
+</g>
+</svg>
