@@ -6,6 +6,7 @@ export type Project = {
   stack: string[];
   github: string;
   demo?: string;
+  apiDocs?: string;
   image?: string;
   imageAlt: string;
   accent: string;
@@ -31,6 +32,7 @@ export const projects: Project[] = [
     ],
     github: "https://github.com/TariqH19/smartsearch",
     demo: "https://smartsearch-frontend.vercel.app/",
+    apiDocs: "https://smartsearch-backend.vercel.app/api/docs/",
     image:
       "https://image-upload-example2.s3.eu-west-1.amazonaws.com/smartsearch.jpg",
     imageAlt: "SmartSearch product interface and search experience",
@@ -56,6 +58,7 @@ export const projects: Project[] = [
     ],
     github: "https://github.com/TariqH19/paybridge",
     demo: "https://paybridgefrontend-nine.vercel.app/",
+    apiDocs: "https://paybridge-neon.vercel.app/",
     image:
       "https://image-upload-example2.s3.eu-west-1.amazonaws.com/paybridge.jpg",
     imageAlt: "PayBridge checkout and commerce dashboard",
