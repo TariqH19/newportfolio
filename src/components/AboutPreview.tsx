@@ -38,7 +38,7 @@ export function AboutPreview() {
           </p>
           <div className="about-preview__actions">
             <a
-              href="https://image-upload-example2.s3.eu-west-1.amazonaws.com/cv/Tariq_Horan_CV.pdf"
+              href="https://image-upload-example2.s3.eu-west-1.amazonaws.com/cv/Tariq_Horan_CV+(1).pdf"
               className="button button--secondary"
               download>
               Download CV
