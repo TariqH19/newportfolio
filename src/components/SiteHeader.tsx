@@ -12,7 +12,7 @@ export function SiteHeader() {
           <a href="#about">About</a>
 
           <a
-            href="https://image-upload-example2.s3.eu-west-1.amazonaws.com/cv/Tariq_Horan_CV.pdf"
+            href="https://image-upload-example2.s3.eu-west-1.amazonaws.com/cv/Tariq_Horan_CV+(1).pdf"
             className="site-nav__cv"
             download>
             Download CV
